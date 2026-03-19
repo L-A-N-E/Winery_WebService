@@ -8,6 +8,7 @@
 * Eduardo Oliveira Cardoso Madid: RM556349
 * Nicolas Haubricht Hainfellner: RM556259
 * Lucas Henzo Ide Yuki: RM554865
+* Guilherme da Cunha Melo: RM555310
 
 ## 📝 Introdução
 
