@@ -33,7 +33,7 @@ public class ApplicationClient2 {
 
         String warn;
 
-        URL urlWarn = new URL("http://localhost:8085/WineWarningService?wsdl");
+        URL urlWarn = new URL("http://localhost:8086/WineWarningService?wsdl");
         QName qNameWarn = new QName(targetWarn, nameWarn);
 
         Service serviceWarn = Service.create(urlWarn, qNameWarn);
