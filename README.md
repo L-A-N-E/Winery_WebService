@@ -16,7 +16,7 @@ Este projeto é um checkpoint que tem como objetivo aplicar os conceitos iniciai
 
 ## 🏗️ Estrutura do Projeto
 
-* `WineOrderClient`: Pasta contendo o consumo do **WebService** `WinerySys` com relação ao pedido do cliente.
-* `WineStockClient`: Pasta contendo o consumo do **WebService** `WinerySys` com relação ao menu de vinhos disponíveis.
-* `WinerySys`: Pasta contendo **WebService**.
+* `Consumer/WineOrderClient`: Pasta contendo o consumo do **WebService** `WinerySys` com relação ao pedido do cliente.
+* `Consumer/WineStockClient`: Pasta contendo o consumo do **WebService** `WinerySys` com relação ao menu de vinhos disponíveis.
+* `Publisher/WinerySys`: Pasta contendo **WebService**.
 
